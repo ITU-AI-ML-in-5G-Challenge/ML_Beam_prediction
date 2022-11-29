@@ -1,3 +1,6 @@
+## Run
+* The results can be obtained by running the evaluation.py directly.
+
 ## Description of dataset
 
 * ITU_test_dataset.hdf5 -- It contains filtered test dataset.
